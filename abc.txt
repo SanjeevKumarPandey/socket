@@ -1,0 +1,1 @@
+OverHello there!I have implemented append boolean true methodthis works like charm!Are we getting the input or not?Overfuckin hellthis is multithreaded now!OverHi there!
